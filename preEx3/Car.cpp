@@ -16,6 +16,6 @@ Car::Car(const string& name, int year) :
 
 
 ostream& operator<<(ostream& os, const Car& car) {
-    return os << car.name << " ==>> " << car.year << std::endl;
+    return os << car.name << " ==>> " << car.year;
 }
 

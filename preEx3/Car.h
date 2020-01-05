@@ -18,6 +18,7 @@ class Car {
 public:
     Car(const Car& car);;
     Car(const string& name, int year);
+
     friend ostream& operator<<(ostream&, const Car& car);
 };
 
