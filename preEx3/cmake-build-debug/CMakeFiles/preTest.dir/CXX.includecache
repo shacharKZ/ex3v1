@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shach/Documents/Technion - sem-B/mtm 234124/ex3/ex3GitHub/ex3v1/preEx3/Car.h
+iostream
+-
+string
+-
+
+C:/Users/shach/Documents/Technion - sem-B/mtm 234124/ex3/ex3GitHub/ex3v1/preEx3/main1.cpp
+iostream
+-
+string
+-
+Car.h
+C:/Users/shach/Documents/Technion - sem-B/mtm 234124/ex3/ex3GitHub/ex3v1/preEx3/Car.h
+

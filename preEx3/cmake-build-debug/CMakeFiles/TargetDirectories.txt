@@ -1,0 +1,3 @@
+C:/Users/shach/Documents/Technion - sem-B/mtm 234124/ex3/ex3GitHub/ex3v1/preEx3/cmake-build-debug/CMakeFiles/preTest.dir
+C:/Users/shach/Documents/Technion - sem-B/mtm 234124/ex3/ex3GitHub/ex3v1/preEx3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shach/Documents/Technion - sem-B/mtm 234124/ex3/ex3GitHub/ex3v1/preEx3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
